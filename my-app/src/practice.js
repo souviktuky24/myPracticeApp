@@ -38,26 +38,26 @@
 // console.log(alexDetails);
 // console.log(alex);
 
-let mAgera = {
-    name : "Agetra",
-    manufacturer : {
-        name : "xyz",
-        location : "Sweden"
-    },
-    topSpeed : 429,
-    color : "Black",
-    spolier : false,
-    applyBrakes : function(){
-        setTimeout(function(){
-            console.log("car stopped");
-        },2000)
-    }
+// let mAgera = {
+//     name : "Agetra",
+//     manufacturer : {
+//         name : "xyz",
+//         location : "Sweden"
+//     },
+//     topSpeed : 429,
+//     color : "Black",
+//     spolier : false,
+//     applyBrakes : function(){
+//         setTimeout(function(){
+//             console.log("car stopped");
+//         },2000)
+//     }
 
-}
+// }
 
-console.log(mAgera.name);
-console.log(mAgera.manufacturer.name);
-console.log(mAgera.applyBrakes());
+// console.log(mAgera.name);
+// console.log(mAgera.manufacturer.name);
+// console.log(mAgera.applyBrakes());
 
 
 
